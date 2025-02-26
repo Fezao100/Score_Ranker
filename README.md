@@ -1,4 +1,4 @@
-# Ranked-System - Sistema de Classificação de Heróis com Base no Saldo de Vitórias
+# Sistema de Classificação de Heróis com Base no Saldo de Vitórias
 
 Este projeto implementa um sistema de classificação de heróis com base no saldo de vitórias e derrotas. O saldo é calculado como a diferença entre vitórias e derrotas, e com base no resultado, um herói recebe um nível de classificação (Ferro, Bronze, etc.).
 
